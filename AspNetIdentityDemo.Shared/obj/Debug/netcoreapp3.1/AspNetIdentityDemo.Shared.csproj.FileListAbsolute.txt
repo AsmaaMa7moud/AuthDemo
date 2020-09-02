@@ -1,0 +1,9 @@
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.deps.json
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.AssemblyInfoInputs.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.AssemblyInfo.cs
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.csprojAssemblyReference.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.csproj.CoreCompileInputs.cache

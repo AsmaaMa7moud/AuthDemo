@@ -1,0 +1,427 @@
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.exe
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csprojAssemblyReference.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\staticwebassets\AspNetIdentityDemo.Api.StaticWebAssets.Manifest.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\staticwebassets\AspNetIdentityDemo.Api.StaticWebAssets.xml
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.AssemblyInfo.cs
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csproj.CopyComplete
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.deps.json
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.runtimeconfig.json
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.runtimeconfig.dev.json
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.pdb
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.pdb
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.dll
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.pdb
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorAssemblyInfo.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorAssemblyInfo.cs
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.TagHelpers.input.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.TagHelpers.output.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorCoreGenerate.cache
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\Razor\Pages\ResetPassword.cshtml.g.cs
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorTargetAssemblyInfo.cs
+C:\Users\dell\Documents\AK Academy\Course 1\App\AspNetIdentityDemo\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.pdb
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csprojAssemblyReference.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.AssemblyInfoInputs.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.AssemblyInfo.cs
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorAssemblyInfo.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorAssemblyInfo.cs
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.TagHelpers.input.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.TagHelpers.output.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorCoreGenerate.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\Razor\Pages\ResetPassword.cshtml.g.cs
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorTargetAssemblyInfo.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorTargetAssemblyInfo.cs
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.pdb
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csproj.CopyComplete
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.pdb
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.exe
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.deps.json
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.runtimeconfig.json
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.runtimeconfig.dev.json
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.pdb
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.pdb
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\staticwebassets\AspNetIdentityDemo.Api.StaticWebAssets.Manifest.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\staticwebassets\AspNetIdentityDemo.Api.StaticWebAssets.xml
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.genruntimeconfig.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csproj.CoreCompileInputs.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Soforx\identitycorecourse-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.exe
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.deps.json
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.runtimeconfig.json
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.runtimeconfig.dev.json
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.pdb
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.pdb
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csprojAssemblyReference.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.AssemblyInfoInputs.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.AssemblyInfo.cs
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorAssemblyInfo.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorAssemblyInfo.cs
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.TagHelpers.input.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.TagHelpers.output.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorCoreGenerate.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\Razor\Pages\ResetPassword.cshtml.g.cs
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorTargetAssemblyInfo.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorTargetAssemblyInfo.cs
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.Views.pdb
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csproj.CopyComplete
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\staticwebassets\AspNetIdentityDemo.Api.StaticWebAssets.Manifest.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\staticwebassets\AspNetIdentityDemo.Api.StaticWebAssets.xml
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.pdb
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.genruntimeconfig.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csproj.CoreCompileInputs.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\Razor\FacebookLogin\Index.cshtml.g.cs
