@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RyUlp9mI2ItYpYl8sylSgYhPXrNA9i6OGt/xKSG2eboFAmNVRrOGuqIkO1VTr9odrCoiLGmYJmzEKtAVhDgcWw==",
+  "dgSpecHash": "L3dyPTw8ye1UMkGP2Ezp+Y0sP5XQ61Le69Y0FL1z2JzguC/BlF9VxD+6m9z8oV80sZwWXvbWcRqlgCAcqaENzA==",
   "success": true,
-  "projectFilePath": "D:\\Soforx\\AuthDemo-master\\AspNetIdentityDemo.Api\\AspNetIdentityDemo.Api.csproj",
+  "projectFilePath": "C:\\Users\\Microsoft\\Source\\Repos\\AsmaaMa7moud\\LastAuthDemoUpdated\\AspNetIdentityDemo.Api\\AspNetIdentityDemo.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Microsoft\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Microsoft\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",

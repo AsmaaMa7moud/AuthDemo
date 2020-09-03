@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AspNetIdentityDemo.Api",
+    "\\AspNetIdentityDemo.Api\\Models",
+    "\\AspNetIdentityDemo.Api\\Services",
+    "\\AspNetIdentityDemo.Api\\wwwroot"
+  ],
+  "SelectedNode": "\\AspNetIdentityDemo.Api\\Services\\FacebookAuthService.cs",
+  "PreviewInSolutionExplorer": false
+}

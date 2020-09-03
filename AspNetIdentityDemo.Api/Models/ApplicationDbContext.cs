@@ -16,6 +16,7 @@ namespace AspNetIdentityDemo.Api.Models
         }
 
         public DbSet<User> User { get; set; }
+        public DbSet<RefreshToken> RefreshTokens { get; set; }
 
     }
 }

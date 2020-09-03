@@ -428,9 +428,6 @@ D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\Razor\F
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csprojAssemblyReference.cache
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.AssemblyInfoInputs.cache
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.AssemblyInfo.cs
-C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csproj.CoreCompileInputs.cache
-C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorAssemblyInfo.cache
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.RazorAssemblyInfo.cs
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.dll
@@ -574,3 +571,6 @@ C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityD
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\staticwebassets\AspNetIdentityDemo.Api.StaticWebAssets.Manifest.cache
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\staticwebassets\AspNetIdentityDemo.Api.StaticWebAssets.xml
 C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.genruntimeconfig.cache
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Api\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Api.MvcApplicationPartsAssemblyInfo.cache

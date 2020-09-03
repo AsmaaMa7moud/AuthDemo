@@ -10009,11 +10009,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Soforx\\AuthDemo-master\\AspNetIdentityDemo.Api\\AspNetIdentityDemo.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Microsoft\\Source\\Repos\\AsmaaMa7moud\\LastAuthDemoUpdated\\AspNetIdentityDemo.Api\\AspNetIdentityDemo.Api.csproj",
       "projectName": "AspNetIdentityDemo.Api",
-      "projectPath": "D:\\Soforx\\AuthDemo-master\\AspNetIdentityDemo.Api\\AspNetIdentityDemo.Api.csproj",
+      "projectPath": "C:\\Users\\Microsoft\\Source\\Repos\\AsmaaMa7moud\\LastAuthDemoUpdated\\AspNetIdentityDemo.Api\\AspNetIdentityDemo.Api.csproj",
       "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
-      "outputPath": "D:\\Soforx\\AuthDemo-master\\AspNetIdentityDemo.Api\\obj\\",
+      "outputPath": "C:\\Users\\Microsoft\\Source\\Repos\\AsmaaMa7moud\\LastAuthDemoUpdated\\AspNetIdentityDemo.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10032,8 +10032,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Soforx\\AuthDemo-master\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj": {
-              "projectPath": "D:\\Soforx\\AuthDemo-master\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj"
+            "C:\\Users\\Microsoft\\Source\\Repos\\AsmaaMa7moud\\LastAuthDemoUpdated\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj": {
+              "projectPath": "C:\\Users\\Microsoft\\Source\\Repos\\AsmaaMa7moud\\LastAuthDemoUpdated\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj"
             }
           }
         }

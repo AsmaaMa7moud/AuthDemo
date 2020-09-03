@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "myqE/TCRun00RB2acKHtf1ThQeXK3JfheHkHqXSAi3dSA00AV3CrLZ1y9XBlngsKuRwM5WA8AKZNDld5sppZdA==",
+  "dgSpecHash": "+qHDgaV1V4sbuQDZIpZ+CqZy6qRA4WQDGGA8GYdG/tE3aQmhi8xF77NgeULHQRsFKkNkvdmZcx4lzZQQdV/sqA==",
   "success": true,
-  "projectFilePath": "D:\\Soforx\\AuthDemo-master\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Microsoft\\Source\\Repos\\AsmaaMa7moud\\LastAuthDemoUpdated\\AspNetIdentityDemo.Shared\\AspNetIdentityDemo.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Microsoft\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Microsoft\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
