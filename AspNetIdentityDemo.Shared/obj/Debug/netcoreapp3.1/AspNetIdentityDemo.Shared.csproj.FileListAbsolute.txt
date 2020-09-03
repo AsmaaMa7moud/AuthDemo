@@ -7,3 +7,12 @@ D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspN
 D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
 D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.csprojAssemblyReference.cache
 D:\Soforx\AuthDemo-master\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.deps.json
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.dll
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.AssemblyInfo.cs
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.dll
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
+C:\Users\Microsoft\Source\Repos\AsmaaMa7moud\LastAuthDemoUpdated\AspNetIdentityDemo.Shared\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.csprojAssemblyReference.cache

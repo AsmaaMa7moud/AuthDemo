@@ -94,7 +94,7 @@ namespace AspNetIdentityDemo.Api.Services
                 string url = $"{_configuration["AppUrl"]}/api/auth/confirmemail?userid={identityUser.Id}&token={validEmailToken}";
 
                 await _mailService.SendEmailAsync(identityUser.Email, "Confirm your email", $"<h1>Welcome to Auth Demo</h1>" +
-                    $"<p>VerificationCode is+'{OTP}'+ <a href='{url}'>Clicking here</a></p>");
+                    $"<p>VerificationCode is'{OTP}'</p>");
 
 
                 return new UserManagerResponse
@@ -112,9 +112,7 @@ namespace AspNetIdentityDemo.Api.Services
             };
 
         }
-
-       
-
+          
 
     public async Task<UserManagerResponse> ConfirmEmailAsync(string userId, string token)
         {
