@@ -32,7 +32,7 @@ namespace AspNetIdentityDemo.Api.Services
         Task<UserManagerResponse> ResetPasswordAsync(ResetPasswordViewModel model);
 
         Task<AuthenticationResult> LoginWithFacebookAsync(string accessToken);
-
+       
         public class UserService : IUserService
         {
 

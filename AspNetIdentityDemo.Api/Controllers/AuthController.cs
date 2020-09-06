@@ -95,9 +95,29 @@ namespace AspNetIdentityDemo.Api.Controllers
             return BadRequest(new { message = "Email or password is incorrect." });
 
         }
+        [HttpPost("LoginWithFaceBook")]
+        public async Task<IActionResult> FacebookAuth([FromBody] UserFacebookAuthRequest request)
+        {
+            var authResponse = await _userService.LoginWithFacebookAsync(request.AccessToken);
 
-        // /api/auth/confirmemail?userid&token
-        [HttpGet("ConfirmEmail")]
+            if (!authResponse.Success)
+            {
+                return BadRequest(new AuthFailedResponse
+                {
+                    Errors = authResponse.Errors
+                });
+            }
+
+            return Ok(new AuthSuccessResponse
+            {
+                Token = authResponse.Token,
+                RefreshToken = authResponse.RefreshToken
+            });
+        }
+    
+
+    // /api/auth/confirmemail?userid&token
+    [HttpGet("ConfirmEmail")]
         public async Task<IActionResult> ConfirmEmail(string userId, string token)
         {
             if (string.IsNullOrWhiteSpace(userId) || string.IsNullOrWhiteSpace(token))

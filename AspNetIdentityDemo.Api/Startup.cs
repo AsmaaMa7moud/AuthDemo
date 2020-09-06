@@ -85,7 +85,7 @@ namespace AspNetIdentityDemo.Api
             services.AddCors();
 
 
-            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IUserService, IUserService.UserService>();
                 services.AddTransient<IMailService, SendGridMailService>();
                 services.AddControllers();
                 services.AddRazorPages();
